@@ -25,7 +25,7 @@ import com.song.mplibrary.VideoPlayerSimple;
 import com.song.mplibrary.VideoPlayerStandard;
 
 /**
- * Created by Nathen on 16/7/22.
+ * Created by song on 16/10/22.
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 

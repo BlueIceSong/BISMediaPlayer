@@ -4,6 +4,7 @@ import android.content.Context;
 import android.graphics.Point;
 import android.graphics.SurfaceTexture;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.Looper;
@@ -258,7 +259,9 @@ public class MediaManager implements ExoPlayer.EventListener, SimpleExoPlayer.Vi
             savedSurfaceTexture = surfaceTexture;
             prepare(textureView.getContext(), CURRENT_PLAYING_URL, null, false);
         } else {
-            textureView.setSurfaceTexture(savedSurfaceTexture);
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
+                textureView.setSurfaceTexture(savedSurfaceTexture);
+            }
         }
     }
 
