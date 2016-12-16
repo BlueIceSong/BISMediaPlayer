@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BISMediaPlayer</string>
+    <string name="app_name_full">BISVideoPlayer</string>
 </resources>
