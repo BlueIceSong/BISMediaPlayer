@@ -1,4 +1,4 @@
-package com.song.bismediaplayer.CustomView;
+package com.song.bismediaplayer.customView;
 
 import android.app.Activity;
 import android.app.AlertDialog;

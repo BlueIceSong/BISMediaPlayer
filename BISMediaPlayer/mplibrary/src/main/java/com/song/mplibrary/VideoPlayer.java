@@ -35,7 +35,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * Created by Nathen on 16/7/30.
+ * Created by song on 16/10/30.
  */
 public abstract class VideoPlayer extends FrameLayout implements MediaPlayerListener, View.OnClickListener, SeekBar.OnSeekBarChangeListener, View.OnTouchListener {
 

@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="45571ff15772a7eaceab83182c9c9faab277f602">
+        sha1="629fc65f41aa467cafac15639898494f93fe1040">
         <dex dex="D:\AndroidStudioProjects\BISMediaPlayer\BISMediaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66bcbcadcfc99f6ab81fc2fe4e56667348796ee0\classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="e9f86bd9d3af72d817a989819d3cd3230b57bb11">
+        sha1="afac8de5e07f65967e72633edfa870292568b858">
         <dex dex="D:\AndroidStudioProjects\BISMediaPlayer\BISMediaPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_81b695ee0dd70e87df4cfff98a06d1eccdf5ac59\classes.dex" />
     </item>
     <item

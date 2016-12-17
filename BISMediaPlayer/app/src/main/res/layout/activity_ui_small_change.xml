@@ -20,7 +20,7 @@
                 android:layout_marginTop="18dp"
                 android:text="Standard ui with share button, visible after fullscreen" />
 
-            <com.song.bismediaplayer.CustomView.JCVideoPlayerStandardShowShareButtonAfterFullscreen
+            <com.song.bismediaplayer.customView.JCVideoPlayerStandardShowShareButtonAfterFullscreen
                 android:id="@+id/custom_videoplayer_standard_with_share_button"
                 android:layout_width="match_parent"
                 android:layout_height="200dp" />
@@ -32,7 +32,7 @@
                 android:layout_marginTop="18dp"
                 android:text="Standard ui show title after fullscreen" />
 
-            <com.song.bismediaplayer.CustomView.JCVideoPlayerStandardShowTitleAfterFullscreen
+            <com.song.bismediaplayer.customView.JCVideoPlayerStandardShowTitleAfterFullscreen
                 android:id="@+id/custom_videoplayer_standard_show_title_after_fullscreen"
                 android:layout_width="match_parent"
                 android:layout_height="200dp" />
@@ -44,7 +44,7 @@
                 android:layout_marginTop="18dp"
                 android:text="Standard ui show textureview after auto complete" />
 
-            <com.song.bismediaplayer.CustomView.JCVideoPlayerStandardShowTextureViewAfterAutoComplete
+            <com.song.bismediaplayer.customView.JCVideoPlayerStandardShowTextureViewAfterAutoComplete
                 android:id="@+id/custom_videoplayer_standard_show_textureview_aoto_complete"
                 android:layout_width="match_parent"
                 android:layout_height="200dp" />
@@ -56,7 +56,7 @@
                 android:layout_marginTop="18dp"
                 android:text="Standard ui show textureview after auto complete" />
 
-            <com.song.bismediaplayer.CustomView.JCVideoPlayerStandardAutoComplete
+            <com.song.bismediaplayer.customView.JCVideoPlayerStandardAutoComplete
                 android:id="@+id/custom_videoplayer_standard_aoto_complete"
                 android:layout_width="match_parent"
                 android:layout_height="200dp" />
